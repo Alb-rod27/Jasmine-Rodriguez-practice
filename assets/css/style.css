@@ -1,0 +1,15 @@
+.navigation {
+    background-color: peachpuff;
+    text-align: right;
+}
+
+
+.navigation ul li {
+    display: inline-flex;
+    list-style: none;
+    padding: 8px;
+}
+
+.contact-info {
+    color: red;
+}

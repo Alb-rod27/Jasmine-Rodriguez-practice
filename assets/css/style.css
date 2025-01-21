@@ -3,12 +3,17 @@
     text-align: right;
 }
 
+.logo {
+    display: flex;
+}
+
 
 .navigation ul li {
     display: inline-flex;
     list-style: none;
     padding: 8px;
 }
+
 
 .contact-info {
     color: red;
